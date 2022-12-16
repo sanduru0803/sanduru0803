@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanduru0803
 - 👀 I’m interested in coding
-- 🌱 I’m currently bootstrap
+- 🌱 I’m currently .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
